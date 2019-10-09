@@ -1,0 +1,3 @@
+id : 1 , neighours : 1 , links : 5
+id : 2 , neighours : 1 , links : 5
+id : 3 , neighours : 1 , links : 0

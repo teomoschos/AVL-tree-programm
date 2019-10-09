@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1496944142 source:c:\users\mike\desktop\ergasia\main.cpp
+	<iostream>
+	<cstdio>
+	<sstream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	"ClassInvertedIndex.h"
+
+1496944764 c:\users\mike\desktop\ergasia\include\classinvertedindex.h
+
+1496945842 source:c:\users\mike\desktop\ergasia\src\classinvertedindex.cpp
+	<iostream>
+	<cstdio>
+	<sstream>
+	<cctype>
+	<stdlib.h>
+	<conio.h>
+	"ClassInvertedIndex.h"
+	<math.h>
+
+1496941474 source:c:\users\mike\desktop\new folder\ergasia\main.cpp
+	<iostream>
+	<cstdio>
+	<sstream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	"ClassInvertedIndex.h"
+
+1496941686 c:\users\mike\desktop\new folder\ergasia\include\classinvertedindex.h
+
+1496941837 source:c:\users\mike\desktop\new folder\ergasia\src\classinvertedindex.cpp
+	<iostream>
+	<cstdio>
+	<sstream>
+	<cctype>
+	<stdlib.h>
+	<conio.h>
+	"ClassInvertedIndex.h"
+	<math.h>
+
+1496944142 source:h:\university stuff\c++\ασκησεις δομων\εργασια avl tree(ολοκληρωμενη)\Εργασια-avl\main.cpp
+	<iostream>
+	<cstdio>
+	<sstream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	"ClassInvertedIndex.h"
+
+1496944764 h:\university stuff\c++\ασκησεις δομων\εργασια avl tree(ολοκληρωμενη)\Εργασια-avl\include\classinvertedindex.h
+
+1496946232 source:h:\university stuff\c++\ασκησεις δομων\εργασια avl tree(ολοκληρωμενη)\Εργασια-avl\src\classinvertedindex.cpp
+	<iostream>
+	<cstdio>
+	<sstream>
+	<cctype>
+	<stdlib.h>
+	<conio.h>
+	"ClassInvertedIndex.h"
+	<math.h>
+
